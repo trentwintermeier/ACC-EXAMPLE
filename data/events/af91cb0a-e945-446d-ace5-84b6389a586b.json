@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "5088ec9d-9c10-4834-95be-0feb2947bb89": {
+      "label": "UM-095 ACC Spotlite 1983-10-18",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://ia600509.us.archive.org/22/items/um-095-acc-spotlite-1983-10-18-1/UM-095%20ACC%20Spotlite%201983-10-18%20%281%29.mp4",
+      "duration": 1835,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "UM-095 ACC Spotlite 1983-10-18",
+  "av_file_order": [
+    "5088ec9d-9c10-4834-95be-0feb2947bb89"
+  ],
+  "created_at": "2026-08-31T16:35:48.291Z",
+  "created_by": "trentwintermeier",
+  "updated_at": "2026-08-31T16:35:48.291Z",
+  "updated_by": "trentwintermeier"
+}
