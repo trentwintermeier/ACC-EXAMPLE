@@ -1,1 +1,82 @@
-{"publish":{"publish_pages_app":true,"publish_static_site":false,"publish_sha":"","publish_iso_date":"","include_slug_in_base":true},"users":[{"login_name":"trentwintermeier","avatar_url":"https://avatars.githubusercontent.com/u/112954339?v=4","admin":true}],"project":{"github_org":"trentwintermeier","is_private":false,"title":"ACC Example Project","description":"This is an example project for Austin Community College.","language":"en","slug":"ACC-EXAMPLE","creator":"trentwintermeier","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"color":"#88C9F2","category":"Program Details"},{"color":"#FF9A6F","category":"Speaker"}],"tags":[{"category":"Program Details","tag":"Program Number"},{"category":"Program Details","tag":"Date"},{"category":"Program Details","tag":"Name"},{"category":"Speaker","tag":"Ed Lundy"}]},"created_at":"2026-08-31T16:27:27.483Z","updated_at":"2026-09-14T14:27:03.271Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"fb2321ba-02f5-4df3-b0b8-d2147957b92b":{"content":[],"created_at":"2026-08-31T16:27:27.518Z","created_by":"trentwintermeier","title":"ACC Example Project","updated_at":"2026-08-31T16:27:27.518Z","updated_by":"trentwintermeier","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["fb2321ba-02f5-4df3-b0b8-d2147957b92b"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_static_site": false,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "include_slug_in_base": true
+  },
+  "users": [
+    {
+      "login_name": "trentwintermeier",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112954339?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "trentwintermeier",
+    "is_private": false,
+    "title": "Austin Community College SpotLite ",
+    "description": "A.C.C. Spotlite was a televised program out of Austin Community College during the 1980s, hosted by Student Programs Officer Ed Lundy. Spotlite was about the people and programs of Austin Community College that had the goal of trying to help the community better understand the institution.",
+    "language": "en",
+    "slug": "ACC-EXAMPLE",
+    "creator": "trentwintermeier",
+    "authors": "Austin Community College",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "color": "#88C9F2",
+          "category": "Program Details"
+        },
+        {
+          "color": "#FF9A6F",
+          "category": "Speaker"
+        }
+      ],
+      "tags": [
+        {
+          "category": "Program Details",
+          "tag": "Program Number"
+        },
+        {
+          "category": "Program Details",
+          "tag": "Date"
+        },
+        {
+          "category": "Program Details",
+          "tag": "Name"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Ed Lundy"
+        }
+      ]
+    },
+    "created_at": "2026-08-31T16:27:27.483Z",
+    "updated_at": "2026-09-14T14:31:47.445Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "fb2321ba-02f5-4df3-b0b8-d2147957b92b": {
+      "content": [],
+      "created_at": "2026-08-31T16:27:27.518Z",
+      "created_by": "trentwintermeier",
+      "title": "ACC Example Project",
+      "updated_at": "2026-08-31T16:27:27.518Z",
+      "updated_by": "trentwintermeier",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "fb2321ba-02f5-4df3-b0b8-d2147957b92b"
+  ]
+}
