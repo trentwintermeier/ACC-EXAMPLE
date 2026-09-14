@@ -83,12 +83,31 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A.C.C. Spotlite",
+          "italic": true
+        },
+        {
+          "text": " was a televised program out of Austin Community College during the 1980s, hosted by Student Programs Officer Ed Lundy. "
+        },
+        {
+          "text": "Spotlite",
+          "italic": true
+        },
+        {
+          "text": " was about the people and programs of Austin Community College that had the goal of trying to help the community better understand the institution. "
+        }
+      ]
     }
   ],
   "created_at": "2026-08-31T16:27:27.518Z",
   "created_by": "trentwintermeier",
   "title": "ACC Example Project",
-  "updated_at": "2026-09-14T14:16:31.265Z",
+  "updated_at": "2026-09-14T14:23:00.669Z",
   "updated_by": "trentwintermeier",
   "autogenerate": {
     "enabled": false,
