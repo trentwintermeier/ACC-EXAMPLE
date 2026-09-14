@@ -52,6 +52,16 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": "Table of Contents",
+                  "bold": true,
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
                   "text": ""
                 }
               ]
@@ -107,7 +117,7 @@
   "created_at": "2026-08-31T16:27:27.518Z",
   "created_by": "trentwintermeier",
   "title": "ACC Example Project",
-  "updated_at": "2026-09-14T14:23:00.669Z",
+  "updated_at": "2026-09-14T14:25:43.471Z",
   "updated_by": "trentwintermeier",
   "autogenerate": {
     "enabled": false,
