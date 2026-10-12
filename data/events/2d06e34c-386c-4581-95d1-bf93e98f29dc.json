@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "d545c6e7-1e9e-4f03-a553-d620ea9b885d": {
+      "label": "ACC Media Streaming",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://d25wyvns0t10nu.cloudfront.net/accmedia/video/ce3c1cb4-f83e-4fa6-a8bc-e89937c373cd/hls/UM-0861987CriminalJusticeProgramCommercial.m3u8",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Test Hosting ",
+  "av_file_order": [
+    "d545c6e7-1e9e-4f03-a553-d620ea9b885d"
+  ],
+  "created_at": "2026-10-12T18:59:55.495Z",
+  "created_by": "trentwintermeier",
+  "updated_at": "2026-10-12T18:59:55.495Z",
+  "updated_by": "trentwintermeier"
+}
